@@ -4,5 +4,5 @@ Portuguese banking dataset provides telemarketing campaign information, and the 
 
 
 
-Live View: https://georgehua.github.io/bank-telemarketing-target-prediction
+Live View: https://georgehua.github.io/bank-telemarketing-target-prediction/
 
